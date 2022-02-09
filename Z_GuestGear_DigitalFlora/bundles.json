@@ -1,0 +1,149 @@
+{
+    "manifest": [
+		{
+            "key": "GuestGearDigitalFlora/ArmorVests/zhuk6a.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Backpacks/attack_sso.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Backpacks/beta2.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Bottoms/cryepresision_bottom.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Bottoms/gorkasso_bottom.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Bottoms/tigr_bottom.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Hands/ghostmarksman_hands.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/content/hands/bear/bear_hands_watch_texture.bundles",
+				"assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Hands/infiltrator_hands.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/content/hands/usec/materials/watch_usec_textures",
+				"assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Hands/tigr_hands.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/content/hands/bear/bear_hands_watch_texture.bundles",
+				"assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Misc/lshz2dtm_aventail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Misc/lshz2dtm_damper.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Rigs/arscpc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Rigs/m1.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Rigs/triton.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Tops/ghostmarksman_top.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Tops/infiltrator_top.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "GuestGearDigitalFlora/Tops/tigr_top.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        }
+    ]
+}

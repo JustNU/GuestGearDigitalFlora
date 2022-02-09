@@ -1,0 +1,10 @@
+{
+    "name": "GuestGear - Digital Flora",
+    "author": "Nexrus, JustNU",
+    "version": "1.0.1",
+    "license": "NCSA",
+    "main": "package.js",
+	"dependencies": {
+        "A_JustNUCore": "1.0.0"
+    }
+}
